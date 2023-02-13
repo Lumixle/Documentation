@@ -1,4 +1,4 @@
-# Getting Started
+# Introduction
 
 Hello! Welcome to Something Host :smile:
 
