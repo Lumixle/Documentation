@@ -8,7 +8,7 @@ module.exports = {
         path: '',      // optional, link of the title, which should be an absolute path and must exist
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
-        initialOpenGroupIndex: 2,
+        initialOpenGroupIndex: 1,
         children: [
           '/'
         ]
