@@ -6,17 +6,22 @@ module.exports = {
       {
         title: 'Getting Started',   // required
         path: '',      // optional, link of the title, which should be an absolute path and must exist
-        collapsable: false, // optional, defaults to true
+        collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           '/'
         ]
       },
+      
       {
-        title: 'Group 2',
-        children: [ /* ... */ ],
-        initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
-      }
+        title: 'FTP',   // required
+        path: '',      // optional, link of the title, which should be an absolute path and must exist
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          '/ftp/connecting-to-ftp'
+        ]
+      },
     ]
   }
 }
