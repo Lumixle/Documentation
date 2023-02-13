@@ -1,0 +1,19 @@
+{
+  "name": "Knowledge Base",
+  "version": "0.0.1",
+  "description": "Stuck on something? No problem. We&#39;ve got everything on web hosting documenented here for you to see",
+  "main": "index.js",
+  "authors": {
+    "name": "Xycronic",
+    "email": "xinterverse@xinterverse.cf"
+  },
+  "repository": "https://github.com/somethingcloud/Documentation/Knowledge Base",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
