@@ -19,7 +19,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          '/ftp/readme.md',
+          '/ftp/',
           '/ftp/connecting-to-ftp'
         ]
       },
