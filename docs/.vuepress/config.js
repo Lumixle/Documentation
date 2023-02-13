@@ -1,9 +1,6 @@
 module.exports = {
   title: 'Knowledgebase',
-  description: 'Here you can find information for absolutely everything you need for setting up your own website!'
-}
-
-module.exports = {
+  description: 'Here you can find information for absolutely everything you need for setting up your own website!',
   themeConfig: {
     sidebar: [
       {
