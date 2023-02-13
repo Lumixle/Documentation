@@ -18,7 +18,7 @@ module.exports = {
       {
         title: 'Group 2',
         children: [ /* ... */ ],
-        initialOpenGroupIndex: 0 //-1 // optional, defaults to 0, defines the index of initially opened subgroup
+        initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
       }
     ]
   }
