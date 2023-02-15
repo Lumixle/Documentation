@@ -1,2 +1,2 @@
 # What is FTP?
-![FTP Illustration](../ftp-intro.png)
+![FTP Illustration](../.vuepress/public/ftp-intro.png)
