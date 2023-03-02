@@ -1,6 +1,6 @@
 # Introduction
 <p align="center">
-  <img src=../.vuepress/public/logo.png />
+  <img src=/docs/.vuepress/public/logo.png />
 </p>
 
 Hello! Welcome to Lumixle :smile:
